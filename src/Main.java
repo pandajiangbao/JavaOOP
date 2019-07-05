@@ -8,5 +8,6 @@ public class Main {
         System.out.println(student.getSex());
         System.out.println(student.getAge());
         System.out.println(student.getStuNo());
+        
     }
 }
